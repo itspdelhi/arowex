@@ -1,0 +1,523 @@
+.row1{
+  background-color:rgb(24, 20, 75);
+  font-size: initial;
+  border-radius: 2rem;
+  text-align: center;
+  margin-top: 1rem;
+  color: white;
+}
+
+.row1 p{
+  margin-top: 1rem;
+
+}
+
+.cardDetails .card{
+  border: none;
+  text-align: center;
+  height: 15rem !important;
+}
+
+.cardDetails{
+  margin-top: 2rem;
+  
+}
+
+
+
+.card-body i{
+  font-size: 2rem;
+}
+
+
+
+.btn-primary{
+  background-color:   #001D57;
+  padding-top: 0rem;
+}
+
+.btn-outline-info{
+  width: 5rem;
+}
+
+.btn-outline-info:hover{
+background-color: whitesmoke !important;
+}
+
+.btn-outline-info:hover{
+  color: #001D57;
+}
+
+
+
+.my-container-fluid {
+  background: rgb(24, 20, 75);
+  text-align: center;
+  margin-top: 2rem;
+  color: white;
+  font-size: 4rem;
+}
+
+.display-6{
+  margin-bottom: 3rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+
+.row2 img {
+  height: 3rem;
+border: 1px solid rgba(66, 153, 255, 0.5);
+
+}
+
+.bottom-image {
+  height: 100%;
+  width: 100%;
+}
+
+
+.row-search {
+  background-color: #001D57;
+  text-align: center;
+  padding: 5rem;
+  text-align: center;
+  color: #fff;
+  font-size: 32px;
+  margin-top: 2rem;
+  
+}
+
+.footer{
+  background-color: black;
+  
+  text-align: center;
+  
+}
+
+.footer-img{
+  height: 7rem;
+  width: 12rem;
+  margin-top: 2rem;
+  
+}
+
+.footer-p{
+  color:rgb(235, 241, 239);
+}
+
+.footer-icon i{
+  font-size: 2rem;
+  padding: 1rem;
+  color: white;
+}
+
+.footer-row{
+  text-align: center;
+}
+
+.first-footer{
+  text-align: center;
+  color: #fff;
+  margin-top: 2rem;
+  font-weight: normal;
+}
+
+.first-footer-h2{
+  font-size: large;
+}
+
+.first-footer p{
+  font-size: small;
+}
+
+.row-text{
+  text-align: center;
+  color: white;
+}
+
+.table-data{
+  background-color:rgb(24, 20, 75);
+  margin-top: 1rem;
+  border-radius: 1rem;
+  color: white;
+}
+
+.table-data p{
+  margin-top: 1rem;
+
+}
+
+.table-data .form-control{
+  margin-top: .5rem;
+}
+
+.navbar-img{
+  height: 4rem;
+  width: 5rem;
+}
+
+
+
+.navbar{
+  background-color: #001D57;
+  height: 4rem;
+}
+
+.row-search p{
+  text-align: center;
+}
+
+
+
+.table th , tr{
+  color: white;
+}
+
+.table:hover{
+  color: white;
+}
+
+.bgimg{
+  background-color: #001D57;
+}
+
+.card-design{
+  margin-top: 1rem;
+}
+.corosal-div{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+  background: linear-gradient(to right top, #04094b, #2212d3);
+    box-shadow:
+      0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+      0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+      0 12.5px 10px rgba(0, 0, 0, 0.06),
+      0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+      0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+      0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+.details {
+  color: white;
+  transition-delay: 3s;
+  font-family: cursive;
+  text-align: center;
+}
+
+.details-col {
+  position: absolute !important;
+  z-index: 1;
+  height: 30rem;
+  margin-top: 6rem;
+  transition-delay: 3s;
+}
+
+.details-col2 {
+  color: transparent;
+  z-index: 0;
+  height: 10rem;
+  transition-delay: 3s;
+  background: rgb(24, 20, 75);
+  align-items:center
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Maven Pro', sans-serif;
+}
+
+.main_div {
+  height: rem;
+  display: grid;
+  place-items: center;
+  background: #001D57;
+  /*background: red;*/
+}
+
+.center_div {
+  width: 300px;
+  height: 180px;
+  border-radius: 16px;
+  background: linear-gradient(to right top, #04094b, #2212d3);
+  padding: 30px;
+  position: relative;
+  margin-top: 1rem;
+  box-shadow:
+      0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+      0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+      0 12.5px 10px rgba(0, 0, 0, 0.06),
+      0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+      0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+      0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+.center_div::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  clip-path: polygon(20% 0%, 100% 0, 100% 20%, 100% 100%, 84% 70%, 46% 59%, 35% 21%, 0 0);
+  border-radius: 16px;
+  background: rgb(1, 4, 64);
+  background: linear-gradient(90deg, rgba(1, 4, 64, 1) 4%, rgba(20, 1, 130, 1) 24%, rgba(39, 5, 185, 0.9535962877030162) 51%, rgba(0, 104, 255, 1) 75%, rgba(5, 145, 184, 1) 93%);
+  z-index: 1;
+  opacity: 0.4;
+}
+
+.center_div::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  clip-path: polygon(20% 0%, 100% 0, 100% 20%, 100% 100%, 84% 70%, 46% 59%, 35% 21%, 0 0);
+  border-radius: 16px;
+  
+  background-size: cover;
+  z-index: 1;
+  opacity: 0.4;
+}
+
+.center_div .top_div {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  z-index: 2;
+}
+
+.center_div .top_div h2 {
+  font-size: 14px;
+  letter-spacing: 2px;
+  font-weight: 300;
+  z-index: 2;
+}
+
+.center_div .top_div h1 {
+  font-size: 30px;
+  text-align: right;
+  text-transform: uppercase;
+  z-index: 2;
+}
+
+.center_div .bottom_div {
+  position: absolute;
+  bottom: 20px;
+  z-index: 2;
+}
+
+.center_div .bottom_div h2 {
+  font-size: 15px;
+  font-weight: 300;
+  text-transform: capitalize;
+  color: #dfe6e9;
+  margin-bottom: 5px;
+  letter-spacing: 1px;
+}
+
+.center_div .bottom_div p {
+  color: #fff;
+}
+
+.corosal-div {
+  height: 18rem;
+  text-align: center;
+  color: white;
+}
+
+
+.sticky-footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 4rem;
+  border-color: gray;
+  background-color: #00CCFF;
+  color: white;
+  text-align: center;
+  justify-content: space-between;
+  z-index: 22;
+}
+
+.stick-row{
+  align-items: center;
+}
+
+.stick-row .btn:hover{
+  color: #3498db !important;
+  border-bottom: 1px solid #565387;
+}
+
+.stick-row{
+  text-align: center;
+  justify-content: space-between;
+}
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 772px) {
+  .bgimg {
+    background-color: #001D57;
+  }
+}
+
+
+/* ------------------------------------------------- */
+
+.login-div {
+  transition: transform 1s;
+  height: 25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+}
+
+.login { 
+	width:35rem;
+	border:1px transparent solid;
+	padding:30px;
+	background-color: #001D57;
+	color:white;
+  height:16rem;
+}
+
+.login-responsive {
+  width:18rem;
+  border:1px transparent solid;
+	padding:30px;
+	background-color: #001D57;
+	color:white;
+  height:25rem;
+}
+
+.register-responsive {
+  width:18rem;
+  border:1px transparent solid;
+	padding:30px;
+	background-color: #001D57;
+	color:white;
+  height:32rem;
+}
+
+.field, .btn {
+	/* border:1px #525d65 solid; */
+	padding:10px;
+}
+
+.field { 
+	background: #001D57;
+	margin:5px 5px;
+	width: 15rem;
+	color:white;
+}
+
+.login h1, .login p, .btn, .forgot { color: white; }
+
+.btn {
+	background-color: #001D57;
+	font-weight:bold;
+	margin: 5px 5px;
+	width:15rem;
+}
+
+.lgn_left, .lgn_right { height: 100%; }
+
+.lgn_left {
+	width: 15rem;
+	/* border-right:1px #525d65 solid; */
+	float:left;
+	
+}
+
+.lgn_right {
+	width: 15rem;
+	float:right;
+	text-align:center;
+}
+
+.register { 
+	width:35rem;
+	margin:auto;
+	border:1px transparent solid;
+	padding:30px;
+	background-color: #001D57;
+	color:white;
+  height:22rem;
+}
+
+.register h1, .register p, .btn, .forgot { color: #CCC; }
+
+.login-form-row {
+  margin-top: 3rem;
+}
+
+.transform-class-login {
+  transform: rotateY(180deg);
+  display: none;
+  width:35rem;
+	margin:auto;
+	border:1px transparent solid;
+	padding:30px;
+	background-color: #001D57;
+	color:white;
+  height:16rem;
+  position: absolute;
+}
+
+.transform-class-register {
+  transform: rotateY(180deg);
+  display: none;
+  width:35rem;
+	margin:auto;
+	border:1px transparent solid;
+	padding:30px;
+	background-color: #001D57;
+	color:white;
+  height:16rem;
+  position: absolute;
+}
+
+.log-button{
+  width: 10rem;
+  color: white !important;
+}
+
+.lgn_left .log-button:hover{
+  color: #00CCFF;
+}
+
+.lgn_right .forgot:hover{
+  color: #00CCFF;
+}
+
+.lgn_right .btn:hover{
+  color: #00CCFF;
+}
+
+.nav-btn{
+  width: 3rem;
+  margin: 0px;
+  text-align: center;
+}
+
+.bottom-nav-design {
+  text-align: center;
+  color: black;
+}
+
+
+/* -------------------------------------- */
