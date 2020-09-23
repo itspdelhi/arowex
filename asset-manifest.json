@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/arowex/static/css/main.01639be4.chunk.css",
+    "main.js": "/arowex/static/js/main.982996b2.chunk.js",
+    "main.js.map": "/arowex/static/js/main.982996b2.chunk.js.map",
+    "runtime-main.js": "/arowex/static/js/runtime-main.8c8df4f8.js",
+    "runtime-main.js.map": "/arowex/static/js/runtime-main.8c8df4f8.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/arowex/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.6a5f0514.chunk.js": "/arowex/static/js/2.6a5f0514.chunk.js",
+    "static/js/2.6a5f0514.chunk.js.map": "/arowex/static/js/2.6a5f0514.chunk.js.map",
+    "index.html": "/arowex/index.html",
+    "precache-manifest.2636de7f3c4787d70dc6cc7a2f45b66c.js": "/arowex/precache-manifest.2636de7f3c4787d70dc6cc7a2f45b66c.js",
+    "service-worker.js": "/arowex/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/arowex/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.01639be4.chunk.css.map": "/arowex/static/css/main.01639be4.chunk.css.map",
+    "static/js/2.6a5f0514.chunk.js.LICENSE.txt": "/arowex/static/js/2.6a5f0514.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c8df4f8.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.6a5f0514.chunk.js",
+    "static/css/main.01639be4.chunk.css",
+    "static/js/main.982996b2.chunk.js"
+  ]
+}
